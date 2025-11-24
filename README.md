@@ -1,21 +1,12 @@
-Aapke GitHub repo me **2 alag tasks/files** hain:
+
 1️⃣ **Web Scraping**
 2️⃣ **EDA (Diwali Sales Analysis)**
-
-Isliye aapko ek **combined README** banana chahiye jisme dono tasks ka short description ho.
-
-Neeche main aapke liye perfect README de rahi hu — simple, clean, student-style, GitHub-friendly.
-
----
-
-# ✅ **FINAL README (copy–paste directly in GitHub)**
 
 # **CodeAlpha Internship Tasks**
 
 This repository contains the tasks completed during my **CodeAlpha Internship**.
 I have added two main projects:
 
----
 
 ## 📌 **Task 1: Web Scraping**
 
@@ -71,4 +62,3 @@ This task is based on analyzing the *Diwali Sales Data*. Using Python, I perform
 * Most purchased categories: **Food, Clothing, Electronics**
 
 
-Agar chaho to main **your-name + internship details** bhi add karke personalize kar dungi ❤️
